@@ -6,7 +6,7 @@
         "url": "https://github.com/mkmik/acme-theme.git",
         "type": "git"
     },
-    "version": "0.0.5",
+    "version": "0.0.6",
     "publisher": "mkmik",
     "engines": {
         "vscode": "^1.25.0"
