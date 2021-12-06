@@ -3,11 +3,11 @@
     "displayName": "acme-theme",
     "description": "A theme based on acme text editor",
     "repository": {
-        "url": "https://github.com/foolusion/acme-theme.git",
+        "url": "https://github.com/mkmik/acme-theme.git",
         "type": "git"
     },
     "version": "0.0.5",
-    "publisher": "foolusion",
+    "publisher": "mkmik",
     "engines": {
         "vscode": "^1.25.0"
     },
