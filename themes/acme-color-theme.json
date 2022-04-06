@@ -18,6 +18,8 @@
 		"editor.inactiveSelectionBackground": "#eeee9e",
 		"editor.selectionBackground": "#eeee9e",
 		"editor.selectionHighlightBackground": "#eeee9e",
+        "editorInlayHint.background": "#ffffea",
+        "editorInlayHint.foreground": "#76766c",
 		"editorGroupHeader.tabsBackground": "#eaffff",
 		"input.background": "#eaffff",
 		"input.border": "#000000",
@@ -46,7 +48,7 @@
 		"tab.hoverBorder": "#eaffff",
 		"tab.inactiveForeground": "#000",
 		"list.focusHighlightForeground": "#eaffff",
-                "quickInputList.focusForeground": "#eaffff",
-                "editorSuggestWidget.selectedForeground": "#eaffff",
+        "quickInputList.focusForeground": "#eaffff",
+        "editorSuggestWidget.selectedForeground": "#eaffff"
 	}
 }
